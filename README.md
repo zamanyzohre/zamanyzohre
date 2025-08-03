@@ -57,6 +57,7 @@
 | فروشگاه غذا آنلاین | طراحی و توسعه فروشگاه غذا با قابلیت فیلتر و سفارش آنلاین | [مشاهده پروژه](https://github.com/zamanyzohre/next-shoping-project) |
 | پنل مدیریت ادمین | مدیریت سفارش‌ها، کاربران و منو با Next.js و REST API | [مشاهده پروژه](https://github.com/zamanyzohre/next-admin-panel?tab=readme-ov-file) |
 |  پروژه شخصی سازی با Sass | طراحی و پیاده‌سازی یک سایت با Sass و Bootstrap و Jqury | [مشاهده پروژه](https://github.com/zamanyzohre/project-sass) |
+| Coming Soon | تایمر شماره معکوس و نمایش زمان باقی مانده | [مشاهده پروژه](https://github.com/zamanyzohre/Coming-Soon)|
 |وب سایت شخصی | ساخت پنل داینامیک با Next.js و REST API | [مشاهده پروژه](#) |
 | وب‌سایت شخصی | معرفی مهارت‌ها و نمونه‌کارها با طراحی رسپانسیو | [مشاهده پروژه](#) |
 
