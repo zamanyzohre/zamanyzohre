@@ -57,6 +57,7 @@
 | فروشگاه غذا آنلاین | طراحی و توسعه فروشگاه غذا با قابلیت فیلتر و سفارش آنلاین | [مشاهده پروژه](https://github.com/zamanyzohre/next-shoping-project) |
 | پنل مدیریت ادمین | مدیریت سفارش‌ها، کاربران و منو با Next.js و REST API | [مشاهده پروژه](https://github.com/zamanyzohre/next-admin-panel?tab=readme-ov-file) |
 | پروژه سبد خرید | مدیریت سبد خرید با React.js| [مشاهده پروژه](https://github.com/zamanyzohre/sabade-kharid) |
+| پروژه لیست کارها | مدیریت لیست کارها(todo list) با React.js و redux-toolkit| [مشاهده پروژه](https://list-todos-one.vercel.app) |
 |  پروژه شخصی سازی با Sass | طراحی و پیاده‌سازی یک سایت با Sass و Bootstrap و Jqury | [مشاهده پروژه](https://github.com/zamanyzohre/project-sass) |
 | Coming Soon | تایمر شماره معکوس و نمایش زمان باقی مانده | [مشاهده پروژه](https://github.com/zamanyzohre/Coming-Soon)|
 |وب سایت شخصی | استفاده از انیمیشن در بخش های مختلف پروژه | [مشاهده پروژه](https://github.com/zamanyzohre/project-website-3?tab=readme-ov-file) |
