@@ -18,6 +18,7 @@
 - React.js
 - Next.js
 - Bootstrap 5
+- Tailwind Css
 - Materialize CSS
 - jQuery
 - Responsive Web Design
